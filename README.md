@@ -11,4 +11,4 @@ Code:
 You need to install pyside6 in order to run the program. Helixpace_main.py's URL on line 26, 91, and 233 need to be changed to the current path of blue_bg.png. 
 
 Call Helixpace from terminal:
- $ python Helixpace_main.py
+ %python Helixpace_main.py
